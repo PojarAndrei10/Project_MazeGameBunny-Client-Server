@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+    <User>
+        <Name>pojar</Name>
+        <Email>pojar@yahoo.com</Email>
+        <Password>pojar123</Password>
+        <Score>0</Score>
+        <Role>ADMIN</Role>
+    </User>
+    <User>
+        <Name>asd</Name>
+        <Email>asd</Email>
+        <Password>aa12</Password>
+        <Score>80</Score>
+        <Role>PLAYER</Role>
+    </User>
+    <User>
+        <Name>alex</Name>
+        <Email>alexandruion@yahoo.com</Email>
+        <Password>alex123</Password>
+        <Score>57</Score>
+        <Role>PLAYER</Role>
+    </User>
+    <User>
+        <Name>viorel</Name>
+        <Email>viorelgheorghe@gmail.com</Email>
+        <Password>vio123</Password>
+        <Score>70</Score>
+        <Role>PLAYER</Role>
+    </User>
+    <User>
+        <Name>mario</Name>
+        <Email>marioraul02@yahoo.com</Email>
+        <Password>mariooo</Password>
+        <Score>80</Score>
+        <Role>PLAYER</Role>
+    </User>
+</Users>
